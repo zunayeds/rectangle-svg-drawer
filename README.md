@@ -11,3 +11,6 @@ To run the Frontend project,
 - Node.JS 18 or higher must be installed.
 - From command prompt browse **Rectangle-SVG-Drawer.UI** folder and run `npm install` command to install all dependencies.
 - Then run `npm run dev` command. The project should be running on **5173** port. So access URL will be http://localhost:5173/.
+
+## Saved JSON file location
+The saved JSON file can be found (at least after saving the initial dimention) at **Rectangle-SVG-Drawer.API\bin\Release\net9.0** folder. The file name will be **rectange-svg-dimentions.json**.
