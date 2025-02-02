@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Rectangle-SVG-Drawer.API/.vs/Rectangle-SVG-Drawer.API/FileContentIndex
+/Rectangle-SVG-Drawer.API/bin
+/Rectangle-SVG-Drawer.API/obj
+/Rectangle-SVG-Drawer.API/.vs
+

@@ -1,0 +1,21 @@
+.header-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.upload-button {
+    background-color: limegreen;
+    color: white;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 0.2em;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 500;
+    transition: background-color 0.3s;
+}
+
+.perimeter {
+    margin: 0;
+    font-size: large;
+}

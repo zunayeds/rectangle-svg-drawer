@@ -1,0 +1,6 @@
+@Rectangle_SVG_Drawer.API_HostAddress = http://localhost:5089
+
+GET {{Rectangle_SVG_Drawer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
